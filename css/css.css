@@ -37,6 +37,7 @@ header{
     border-radius: 1rem;
     text-align: center;
     line-height:3.2rem;
+
 }
 .header-employer{
     float:left;
@@ -54,6 +55,7 @@ header{
     right:auto;
     background-color: #ffffff;
     z-index:-1;
+    transition: all 0.2s ease-in 0s;
 }
 header .icon-local{
     position:absolute;
